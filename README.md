@@ -4,7 +4,7 @@ You can filter your Javascript array with words or nested objects
 
 # Usage 
 an object with keys and params array or nested objects
-
+```
 Example:
 
 const data = [
@@ -29,7 +29,7 @@ const filter = {
 
 multiFilter(data,filter);
 
-
+```
 
 # LICENSE
 
